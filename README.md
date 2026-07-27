@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Little-code49
-- 👀 I’m interested in designing PCBs
-- 🌱 I’m gettibng addicted to Linux Ricing
+# Hello
+This is my personal collection of projects I have made.
+It includes:
+ - My linux rice
+ - PCB and electronic stuff
+ - Silly stuff
 
 <!---
 Little-code49/Little-code49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
